@@ -3,4 +3,5 @@
 int main()
 {
     std::cout << "Hello git example!" << std::endl;
+    std::cout << "Add a second line" << std::endl;
 }
