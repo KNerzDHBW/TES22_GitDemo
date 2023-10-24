@@ -7,5 +7,5 @@ int main()
     std::cout << "Add a third line" << std::endl;
     std::cout << "Add a fourth line" << std::endl;
 
-    std::cout << "This change has tp be approved in a PR before going to main branch." << std::endl;
+    std::cout << "This change has to be approved in a PR before going to main branch." << std::endl;
 }
