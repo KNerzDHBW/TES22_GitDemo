@@ -6,6 +6,6 @@ int main()
 
     std::cout << "Hello again!" << std::endl;
 
-    std::cout << "Hello once agin!" << std::endl;
+    std::cout << "Hello once again!" << std::endl;
 
 }
